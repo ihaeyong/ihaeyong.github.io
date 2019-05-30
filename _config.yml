@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Haeyong Kang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Somewhere."
+  bio              : "Somewhere"
   location         : "Somewhere"
   email            : "ihaeyong@gmail.com"
   links:
